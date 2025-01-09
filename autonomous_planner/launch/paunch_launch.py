@@ -77,7 +77,6 @@ def generate_launch_description():
         slam_toolbox_launch,
         nav2_bringup_launch,
         plansys2_launch,
-        # fake_nav2_node,
         move_action_node,
         scan_action_node,
         aruco_node
